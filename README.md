@@ -1,2 +1,2 @@
 # fourth-task
-Face recognization and image classifier through Transfer Learning using existing model .
+Face recognization  through Transfer Learning using existing model i.e, MobileNet .
