@@ -7,7 +7,6 @@ from keras.models import Model
 import cv2
 import numpy as np
 #Load the MobileNet model
-
 img_rows = 224
 img_cols = 224  
 model = MobileNet(weights = 'imagenet', 
